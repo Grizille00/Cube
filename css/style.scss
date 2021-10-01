@@ -5,8 +5,8 @@
 }
 
 $boxColor:#0ff7;
-$rotateSpeed:30s;
-$bounceSpeed:3.5s;
+$rotateSpeed:20s;
+$bounceSpeed:2.5s;
 
 
 body{
@@ -17,7 +17,7 @@ body{
     align-items: center;
     font-size: 50px;
     perspective: 10em;
-    perspective-origin: 50% calc(50% - 3em);
+    perspective-origin: 50% calc(50% - 4em);
 }
 
 .scene{
